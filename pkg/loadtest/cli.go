@@ -6,7 +6,7 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/interchainio/tm-load-test/internal/logging"
+	"github.com/onomyprotocol/tm-load-test/internal/logging"
 	"github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"
 )

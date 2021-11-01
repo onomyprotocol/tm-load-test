@@ -8,7 +8,7 @@ import (
 	"unicode"
 
 	"github.com/gorilla/websocket"
-	"github.com/interchainio/tm-load-test/internal/logging"
+	"github.com/onomyprotocol/tm-load-test/internal/logging"
 	uuid "github.com/satori/go.uuid"
 )
 
